@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /ME_blog/about/
+permalink: about/
 background: "/images/about.jpg"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact me
-permalink: /ME_blog/contact/
+permalink: contact/
 background: "/images/contact.jpg"
 ---
 

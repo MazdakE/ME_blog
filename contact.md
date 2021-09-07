@@ -5,6 +5,12 @@ permalink: contact/
 background: "/images/contact.jpg"
 ---
 
+<p>
+  If the form below doesn't work. Feel free to use the Mail or Github icon in
+  the footer section below. If you have any suggestions please let me know! Have
+  a great day!<br /><br />Twitter icon will forward you Jekyll's twitter
+  profile.
+</p>
 <form name="sentMessage" id="contactForm" novalidate>
   <div class="control-group">
     <div class="form-group floating-label-form-group controls">

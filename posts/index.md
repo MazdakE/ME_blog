@@ -37,8 +37,7 @@ permalink: "posts/"
   <a
     class="btn btn-primary float-left"
     href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"
-    >&larr; Newer<span class="d-none d-md-inline"> Posts</span></a
-  >
+    >&larr; Newer<span class="d-none d-md-inline"> Posts</span></a>
   {% endif %} {% if paginator.next_page %}
   <a
     class="btn btn-primary float-right"

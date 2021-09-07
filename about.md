@@ -1,15 +1,16 @@
 ---
 layout: page
 title: About
-permalink: about/
+permalink: /about/
 background: "/images/about.jpg"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your
-Jekyll theme, as well as basic Jekyll usage documentation at
-[jekyllrb.com](https://jekyllrb.com/) You can find the source code for Minima at
-GitHub: [jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima) You can find the source code for
-Jekyll at GitHub: [jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll) [jekyll-organization]:
-https://github.com/jekyll
+My name is Mazdak Ebrahimzadeh, and a student at Teknikhögskolan studying to
+
+<!-- become a .NET Developer. This blog has been made for studying purposes. But I am doing my best to comprehend
+and express different kind of terminology that I have been exposed to. I will
+try to be as precise as I can to explain different terms in the way that I
+understand them, which as I just mentioned, might not be entirely correct. If
+you have any suggestions or tips regarding the content (it could be changes)
+then please let me know! You can always contact me through the footer section
+below by Email or my Github profile. Have a good day! -->

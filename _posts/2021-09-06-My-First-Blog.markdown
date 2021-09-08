@@ -82,13 +82,13 @@ I will list the providers down below. Start with the popular ones and go over to
 
 ### BlueVPS
 
-![BlueVPS](/images/BlueVPS.png){:width="800px"}
+![BlueVPS](/images/BlueVPS.png){:width="400px"}
 
 ---
 
 ### Bahnhoff
 
-![Bahnhoff](/images/Bahnhoff.png){:width="800px"}
+![Bahnhoff](/ME_blog/images/Bahnhoff.png){:width="400px"}
 
 ---
 

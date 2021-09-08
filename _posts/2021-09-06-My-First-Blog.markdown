@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "First Blog Post"
-subtitle: "Lecture 1 - Blog post (Deadline 2021/09/07 23:55)"
-date: 2021-09-06 19:10:45 +0200
+subtitle: "Lecture 1 - Blog post"
+date: 2021-09-06 23:45
 categories: jekyll update
 background: "/images/image1.jpg"
 ---

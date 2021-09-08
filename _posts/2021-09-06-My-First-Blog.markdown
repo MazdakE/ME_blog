@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "First Blog Post"
 subtitle: "Lecture 1 - Blog post"
 date: 2021-09-06 23:45

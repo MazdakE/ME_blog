@@ -95,7 +95,7 @@ I will list the providers down below. Start with the popular ones and go over to
 
 # Conclusion
 
-What I can conclude is that the popular ones are far more expensive then the unpopular ones. There can be many factors to it. One of those are the security and the amount of tools provided from the popular ones. What you choose as a firm is pretty much up to how much you can afford and also how much you demand from your provider to provide.
+What I can conclude is that the popular ones are far more expensive than the unpopular ones. There can be many factors to it. One of those are the security and the amount of tools provided from the popular ones. What you choose as a firm is pretty much up to how much you can afford and also how much you demand from your provider to provide.
 
 ### References
 

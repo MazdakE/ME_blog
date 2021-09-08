@@ -64,15 +64,15 @@ I will list the providers down below. Start with the popular ones and go over to
 
 ### Pricing Calculation Amazon
 
-![Aws1](/images/Amazon_first.png){:width="800px"}
+![Aws1](/images/Amazon_first.png){:width="400px"}
 
-![Aws2](/images/Amazon_second.png){:width="800px"}
+![Aws2](/images/Amazon_second.png){:width="400px"}
 
 ---
 
 ### Pricing Calculation Google
 
-![Google](/images/Google.png){:width="800px"}
+![Google](/images/Google.png){:width="400px"}
 
 ---
 

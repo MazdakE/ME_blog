@@ -29,11 +29,10 @@ github_username: MazdakE
 
 # Build settings
 theme: minima
-paginate: 5
-paginate_path: "/posts/page:num/"
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-feed
-  - jekyll-paginate
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -53,3 +52,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+title: [2021-09-06-My-First-Blog]
+description: [Blog about clouds, fundamentals]

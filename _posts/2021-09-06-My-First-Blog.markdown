@@ -98,4 +98,4 @@ What I can conclude is that the popular ones are far more expensive than the unp
 
 ### References
 
-[What is The Cloud?, What types of cloud services are there?](https://www.citrix.com/solutions/digital-workspace/what-is-a-cloud-service.html)
+[What is the Cloud?, What types of cloud services are there?](https://www.citrix.com/solutions/digital-workspace/what-is-a-cloud-service.html)

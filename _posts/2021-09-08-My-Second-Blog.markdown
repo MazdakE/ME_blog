@@ -74,8 +74,26 @@ Instructions that simply listens for available assignments. It runs one assignme
 Here we use `- uses: actions/checkout@v2` to tell the assignment to get version 2 of the action and downloads it to the runner. Next is to setup the .NET verson 5 and IDE .NET Core SDK.
 This is where all the steps are grouped together to run where each item is
 
-![ill1](/ME-blog/images/image2.png)
+![ill1](/ME_blog/images/image2.png)
 
 After that we have the stucture of that workflow that it should go through.
 
 ![ill2](/ME_blog/images/image3.png)
+
+In this case I passed the test and got all ticks as you can see below:
+
+![ill3](/ME_blog/images/image4.png)
+
+If it doesn't pass you will get a red x and the reason for that will be shown.
+
+#### Excluded SQL-testing
+
+Since I didn't had access to my SQL and had to either connect it to Docker or some other solution, I skipped those testes beacuse I was short on time. Instead I had other tests which was not dependent on the SQL.
+
+#### References
+
+[An Introduction to Github Actions](https://gabrieltanner.org/blog/an-introduction-to-github-actions)
+
+[Building and testing .NET](https://docs.github.com/en/actions/guides/building-and-testing-net)
+
+[Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)

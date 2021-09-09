@@ -66,8 +66,6 @@ I will list the providers down below. Start with the popular ones and go over to
 
 ![Aws1](/ME_blog/images/Amazon_first.png){:width="800px"}
 
-![Aws2](/ME_blog/images/Amazon_second.png){:width="800px"}
-
 ---
 
 ### Pricing Calculation Google

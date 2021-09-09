@@ -39,9 +39,9 @@ Benefits:
 First off I forked an older project called [Spacepark v1](https://github.com/PGBSNH20/spacepark-spaceinvaders) (spacepark-spaceinvaders).
 When forking a repository is another word for copying an repository in your own repository, Link: [Forked Spacepark v1](https://github.com/MazdakE/spacepark-spaceinvaders).
 
-After that I created a yaml-file in my forked repository. Before I go through with my explaination, best practice is to create a new branch and work from there so you don't come bump into conflicts.
+After that I created a yaml-file in my forked repository. Before I go through with my explaination, best practice is to create a new branch and work from there so you don't bump into conflicts.
 
-You start by creating a folder in your branch called .github and after that another folder called workflow, inside workflow you create a file (give it a good name) and end it with the extention .yml.
+I started by creating a folder in my branch called .github and after that another folder called workflow, inside workflow you create a file (give it a good name) and end it with the extention .yml.
 
 Next I inserted the logics of what kind of job it should do for us when checking our code.
 

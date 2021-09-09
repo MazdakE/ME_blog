@@ -58,21 +58,21 @@ I will list the providers down below. Start with the popular ones and go over to
 
 ### Pricing Calculation Azure
 
-![Azure](/images/Azure.png){:width="800px"}
+![Azure](/ME_blog/images/Azure.png){:width="800px"}
 
 ---
 
 ### Pricing Calculation Amazon
 
-![Aws1](/images/Amazon_first.png){:width="400px"}
+![Aws1](/ME_blog/images/Amazon_first.png){:width="400px"}
 
-![Aws2](/images/Amazon_second.png){:width="400px"}
+![Aws2](/ME_blog/images/Amazon_second.png){:width="400px"}
 
 ---
 
 ### Pricing Calculation Google
 
-![Google](/images/Google.png){:width="400px"}
+![Google](/ME_blog/images/Google.png){:width="400px"}
 
 ---
 
@@ -82,13 +82,13 @@ I will list the providers down below. Start with the popular ones and go over to
 
 ### BlueVPS
 
-![BlueVPS](/images/BlueVPS.png){:width="400px"}
+![BlueVPS](/ME_blog/images/BlueVPS.png){:width="400px"}
 
 ---
 
 ### Bahnhoff
 
-![Bahnhoff](/images/Bahnhoff.png){:width="400px"}
+![Bahnhoff](/ME_blog/images/Bahnhoff.png){:width="400px"}
 
 ---
 

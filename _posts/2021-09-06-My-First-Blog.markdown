@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Blog Post"
-subtitle: "Lecture 1 - Blog post"
+subtitle: "Lecture 1 - Cloud"
 date: 2021-09-06 23:45
 categories: jekyll update
 ---

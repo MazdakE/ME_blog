@@ -88,7 +88,7 @@ I will list the providers down below. Start with the popular ones and go over to
 
 ### Bahnhoff
 
-![Bahnhoff1](/images/Bahnhoff1.png){:width="400px"}
+![Bahnhoff](/images/Bahnhoff.png){:width="400px"}
 
 ---
 

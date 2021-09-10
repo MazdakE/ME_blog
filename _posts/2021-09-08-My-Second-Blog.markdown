@@ -49,11 +49,11 @@ Follow this link to see the logic that I have inserted: [yaml-file](https://gith
 
 ### Step by step explanation of yaml-file
 
-#### Workflows
+#### Workflows-part
 
 Workflow is the procedure of the pipeline so that for example more than one job can get triggered by an event. Workflow is used to release, review, package, build and test the project.
 
-#### Events
+#### Events-part
 
 The event triggers the workflow. When a new commit of codes is inserted, that will trigger the workflow. The workflow will then start to run based on instructions given inside the yaml-file. [yaml-file](https://github.com/MazdakE/spacepark-spaceinvaders/blob/main/.github/workflows/ci-test-and-build.yml).
 

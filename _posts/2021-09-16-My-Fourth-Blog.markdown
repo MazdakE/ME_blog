@@ -102,7 +102,7 @@ As you can see we use Http Post, key Master(host), and the values as queries. We
 
 ![Result success](/ME_blog/images/result_success.png){:class="img-fluid"}
 
-In this case we got `http result 200 OK` and the result is shown.
+In this case we got a `http result 200 OK` response and the sum of those values are shown.
 
 ## Gold exercise
 

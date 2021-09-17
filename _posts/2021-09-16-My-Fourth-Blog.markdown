@@ -162,7 +162,7 @@ Important details that should not be leaked is in our secrets in our Github.
 
 ## Security
 
-When you deal with cloud there are some things you need to take into consideration, and of them is security. There are no guarantee that you are secure to 100% against hackers. But there are some top priorities in order to make an secure enviroment for your functions and data:
+When you deal with cloud there are some things you need to take into consideration, and one of them is security. There are no guarantee that you are secure to 100% against hackers. But there are some top priorities in order to make an secure enviroment for your functions and data:
 
 Authentication is one way to secure. You should require authentication by using some sort of API keys or AntiForgeryTokens so that you and your client can feel safe. This we reduce unwanted traffic but also reduce other security risks.
 

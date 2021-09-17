@@ -15,27 +15,25 @@ In this blog today will be about Docker on how to use it with containers and ima
 This exercise told us to fork a repository as mentioned below. I forked it to m repo: [SimpleWebHalloWorld](https://github.com/MazdakE/SimpleWebHalloWorld).
 First thing was to write a Dockerfile (case sensitive). I used Visual Studio Code to solve this exercise and there are two ways to solve this: either right click in Explorer and click new file and name it or open terminal and write {% highlight javascript %}code Dockerfile{% endhighlight %}
 
-Inside the Dockerfile I wrote the image so that I could create a Docker Container. {% highlight  csharp%}
-FROM mcr.microsoft.com/dotnet/aspnet:3.1 AS base
+Inside the Dockerfile I wrote the image so that I could create a Docker Container. <pre class="yaml" style="font-family:monospace;">FROM mcr.microsoft.com/dotnet/aspnet:3.1 AS base
 WORKDIR /app
 EXPOSE 80
-
+&nbsp;
 FROM mcr.microsoft.com/dotnet/sdk:3.1 AS build
 WORKDIR /src
-COPY ["SimpleWebHalloWorld.csproj", "."]
-RUN dotnet restore "./SimpleWebHalloWorld.csproj"
+COPY <span class="br0">&#91;</span><span style="color: #CF00CF;">&quot;SimpleWebHalloWorld.csproj&quot;</span>, <span style="color: #CF00CF;">&quot;.&quot;</span><span class="br0">&#93;</span>
+RUN dotnet restore <span style="color: #CF00CF;">&quot;./SimpleWebHalloWorld.csproj&quot;</span>
 COPY . .
-WORKDIR "/src/."
-RUN dotnet build "SimpleWebHalloWorld.csproj" -c Release -o /app/build
-
+WORKDIR <span style="color: #CF00CF;">&quot;/src/.&quot;</span>
+RUN dotnet build <span style="color: #CF00CF;">&quot;SimpleWebHalloWorld.csproj&quot;</span> -c Release -o /app/build
+&nbsp;
 FROM build AS publish
-RUN dotnet publish "SimpleWebHalloWorld.csproj" -c Release -o /app/publish
-
+RUN dotnet publish <span style="color: #CF00CF;">&quot;SimpleWebHalloWorld.csproj&quot;</span> -c Release -o /app/publish
+&nbsp;
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "SimpleWebHalloWorld.dll"]
-{% endhighlight %}
+ENTRYPOINT <span class="br0">&#91;</span><span style="color: #CF00CF;">&quot;dotnet&quot;</span>, <span style="color: #CF00CF;">&quot;SimpleWebHalloWorld.dll&quot;</span><span class="br0">&#93;</span></pre>
 
 So this is probably what Visual Studio could have created but got the information from [Docker and .NET Core 101](https://www.youtube.com/watch?v=vmnvOITMoIg&list=PLdo4fOcmZ0oUvXP_Pt2zOgk8dTWagGs_P) in order to create my Docker Image.
 

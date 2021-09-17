@@ -21,7 +21,7 @@ Many cloud-services provide FaaS and is one of the simpler levels of cloud compu
 
 So the way we created our calculator app was by starting Visual Studio and creating a new project with C# as language and Azure as OS and the type of project we created av Azure Functions, see image below:
 
-![Azure Project](/ME_blog/images/azure_project){:width="600px"}
+![Azure Project](/ME_blog/images/azure_project){:class="img-fluid"}
 
 Here you see the calculator that we built, don't forget to scroll to the right to see the whole code:
 
@@ -78,17 +78,17 @@ Just a preview on how the site looks like, shown below:
 
 The URL to our calculator site is `https://additionalcalculator.azurewebsites.net/api/CalculatorApplication?code=gWXblWD6oafWJMf1Xtv3E6G9WRFmJPPetpRDWuVphOrdhjgzAlk5pQ==` and as we add `&value1=19&value2=21` to our URL we get the sum of those values that we just inserted.
 
-![Calculation Successful](/ME_blog/images/azure_success.png){:width="600px"}
+![Calculation Successful](/ME_blog/images/azure_success.png){:class="img-fluid"}
 
 And if it fails an message will bve shown informing the client:
 
-![Calculation failed](/ME_blog/images/azure_failed.png){:width="600px"}
+![Calculation failed](/ME_blog/images/azure_failed.png){:class="img-fluid"}
 
 ## For Silver inermediate exercise
 
 We followed the steps in how to [Create a function app in Azure that is deployed from GitHub](https://docs.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-function-app-github-continuous).
 
-![Azure Github Instructions](/ME_blog/images/azure_github_silver.png){:width="600px"}
+![Azure Github Instructions](/ME_blog/images/azure_github_silver.png){:class="img-fluid"}
 
 So we wrote down these CLI commands from powershell and also created a git token so that we could deploy app in our repo where Azure Portal takes it from.
 
@@ -96,11 +96,11 @@ So we wrote down these CLI commands from powershell and also created a git token
 
 Testing it was really simple. There are many ways of testing the calculation that we created and one of those ways did I mention earlier. Another way of testing the calculation is by going in to your Azure Portal-> (your function) -> Test/Run as I will show below:
 
-![Function test](/ME_blog/images/testing_function.png){:width="600px"}
+![Function test](/ME_blog/images/testing_function.png){:class="img-fluid"}
 
 As you can see we use Http Post, key Master(host), and the values as queries. We remove exerything there is in body. After that we click run and see what the result is.
 
-![Result success](/ME_blog/images/result_success.png){:width="600px"}
+![Result success](/ME_blog/images/result_success.png){:class="img-fluid"}
 
 In this case we got `http result 200 OK` and the result is shown.
 

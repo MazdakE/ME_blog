@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fourth Blog Post"
-subtitle: "Lecture 4 - Azure"
+subtitle: "Lecture 4 - Azure Serverless"
 date: 2021-09-16 22:55
 categories: jekyll update
 ---

@@ -21,7 +21,7 @@ Many cloud-services provide FaaS and is one of the simpler levels of cloud compu
 
 So the way we created our calculator app was by starting Visual Studio and creating a new project with C# as language and Azure as OS and the type of project we created av Azure Functions, see image below:
 
-![Azure Project](/ME_blog/images/azure_project){:class="img-fluid"}
+![Azure Project](/ME_blog/images/azure_project.png){:class="img-fluid"}
 
 Here you see the calculator that we built, don't forget to scroll to the right to see the whole code:
 

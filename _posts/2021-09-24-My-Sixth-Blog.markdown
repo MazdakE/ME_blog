@@ -26,7 +26,7 @@ So we created a simple application with 3 pages. The first page which also is an
 
 When added a `WOOHOO` will be shown. 
 
-The Get-page simply takes a search term which in this case is the name of the artist and sends the request back to the user with song and name on a content page. Visit the following site to see for yourself https://musicappweb20210924131459.azurewebsites.net/.
+The Get-page simply takes a search term which in this case is the name of the artist and sends the request back to the user with song and name on a content page. Visit the following site to see for yourself [Click here](https://musicappweb20210924131459.azurewebsites.net/)
 
 ![music_get](/ME_blog/images/music_get.png){:class="img-fluid"}
 
@@ -34,7 +34,7 @@ The Get-page simply takes a search term which in this case is the name of the ar
 
 _Image illustrates the output of what the client recieves when searching for Eminem_
 
-Last page is the Delete-page which deletes the song the client wishes to remove from the database. The cient types in the id of that song and submits. After that the song is gone from our database. If cient regrets to remove the song, just go back to Post-page and add that song back. 
+Last page is the Delete-page which deletes the song the client wishes to remove from the database. The client types in the id of that song and submits. After that the song is gone from our database. 
 
 ![music_delete](/ME_blog/images/music_delete.png){:class="img-fluid"}
 

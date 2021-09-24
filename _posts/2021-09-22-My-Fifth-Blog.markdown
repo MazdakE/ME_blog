@@ -1,4 +1,10 @@
-
+---
+layout: post
+title: "Fifth Blog Post"
+subtitle: "Lecture 5 - Azure Cosmos Db"
+date: 2021-09-16 22:55
+categories: jekyll update
+---
 # Introduction
 
 In this blog we will go through Azure functions with GET, POST requests and CosmosDB. The focus is that our functions are working properly when sending requests to our database so that we can GET and POST information. So this blog will be about:

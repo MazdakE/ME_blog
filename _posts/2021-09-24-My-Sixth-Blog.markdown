@@ -10,7 +10,7 @@ categories: jekyll update
 
 In this section we are creating a ASP.NET Web Application with Razor Pages. This application will have the same functions as the previous exercise, which you can read in [here](https://mazdake.github.io/ME_blog/2021/09/22/My-Fifth-Blog.html). Afterwards we added a Dockerfile which pushes our image to Azure Container Registry, also callen ACR. We could then pull our image from ACR and run it from inside Docker Desktop. The difference between this blog and the previous one is that it's now more user friendly with POST, GET and DELETE. We can also pull our Docker Image from another computer without any errors.
 
-The topics I will go through in this blog is the following: 
+The topics I will go through in this blog are the following: 
 
 - Describing our application and what it does 
 - Describing the code

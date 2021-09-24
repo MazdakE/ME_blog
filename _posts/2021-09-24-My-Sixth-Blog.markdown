@@ -141,7 +141,7 @@ The steps that I just told can be found in this [site](https://blog.hildenco.com
 
 Now that our app works with our Cosmos Db and Dockerfile, next is to deploy the app to Azure App Service. To do this I follow this [site](https://docs.microsoft.com/en-us/azure/cosmos-db/sql/sql-api-dotnet-application#deploy-the-application-to-azure) step-by-step on how to do it.
 
-In Visual Studio I right clicked my project in **solution explorer**, slected **Publish** and then a winow showed up where I could create my Azure App Service. You then fill the in the informations required and publish it by clicking on the Publish button on the upper right corner, of course after you're done with your form. A Domain will be given to you and you can then access it through the internet. 
+In Visual Studio I right clicked my project in **solution explorer**, selected **Publish** and then a winow pops up where I could create my Azure App Service. I then filled in the informations required and published it by clicking on the Publish button on the upper right corner, of course after I was done with my form. A Domain was given to me and I could then access it through the world wide web. 
 
 ## Estimated costs 
 

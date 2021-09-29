@@ -2,7 +2,7 @@
 layout: post
 title: "Sixth Blog Post"
 subtitle: "Lecture 6 - Web application in cloud"
-date: 2021-09-16 22:55
+date: 2021-09-24 22:55
 categories: jekyll update
 ---
 

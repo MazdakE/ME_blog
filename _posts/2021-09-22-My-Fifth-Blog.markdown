@@ -2,7 +2,7 @@
 layout: post
 title: "Fifth Blog Post"
 subtitle: "Lecture 5 - Azure Cosmos Db"
-date: 2021-09-16 22:55
+date: 2021-09-22 22:55
 categories: jekyll update
 ---
 # Introduction

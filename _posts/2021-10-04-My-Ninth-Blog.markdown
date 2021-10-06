@@ -59,7 +59,7 @@ There is also graphical functions in Application Insight called [Application Map
 
 # How it looks like when we run our application
 
-![LoggingSerilog](/ME_blog/images/LoggingSerilog.png){:class="img-fluid"}
+![LoggingSeriLog](/ME_blog/images/LoggingSeriLog.png){:class="img-fluid"}
 
 Now when we run the application locally we see get information about every step we take in our application. We see `[INF]` which means information and if it crashes we get `[ERR]` and `[WAR]`which means error and warning. Besides that we also get a text-file with all the information from the console everytime we use the application. 
 

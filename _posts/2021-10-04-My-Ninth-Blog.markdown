@@ -12,7 +12,7 @@ In this blog we are going to look at how we monitoring using our web app which w
 
 # Code
 
-This section will only cover the logging code, the rest of the code is explianed in [Lecture 6](https://mazdake.github.io/ME_blog/jekyll/update/2021/09/24/My-Sixth-Blog.html). 
+This section will only cover the logging code, the rest of the code is explained in [Lecture 6](https://mazdake.github.io/ME_blog/jekyll/update/2021/09/24/My-Sixth-Blog.html). 
 
 ##### Startup.cs
 To enable using server-side telemetry we first add the service provider and insert our intrument key to be retrieved from Configuration. We also add a singleton of Log.Logger so that we can use Serilog. See image below.  

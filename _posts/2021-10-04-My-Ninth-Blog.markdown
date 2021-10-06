@@ -53,7 +53,7 @@ The following diagram illustrates how the services are connected.
 
 ![ServiceConnection](/ME_blog/images/ServiceConnection.drawio.png){:class="img-fluid"}
 
-There is also graphical functions in Application Insight called [Application Map](https://docs.microsoft.com/sv-se/azure/azure-monitor/app/app-map?tabs=net). This will give you an overview over calles beeing made between Azure connected systems. This map finds components by following HTTP dependency calls between server and Application Insight. 
+There is also graphical functions in Application Insight called [Application Map](https://docs.microsoft.com/sv-se/azure/azure-monitor/app/app-map?tabs=net). This will give you an overview over calls beeing made between Azure connected systems. This map finds components by following HTTP dependency calls between server and Application Insight. 
 
 ![ApplicationMap](/ME_blog/images/ApplicationMap.drawio.png){:class="img-fluid"}
 

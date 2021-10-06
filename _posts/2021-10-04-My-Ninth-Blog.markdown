@@ -89,4 +89,33 @@ But in our case we used trace and then filtered it on decending order so that we
 
 _Image illustrates the Kusto query we used to get the latest informations on top_
 
+# Using logging to increase security
 
+We will look at two effective logging strategies that will help increase dealing with compromises and also security. 
+
+##### Audit trails
+
+Audit trails are a record of changes that have been made to your data. Any change to data such as creating new data, updating data or deleting data is recorded. 
+
+The need of such a record has to do with the security. Audit trail usually include identity of that user or the user who changed the data, date and what data has been changed. this information will ease the investigation and undo the damaged data. 
+
+##### Threats
+
+Threat logs trails suspicious activities or attemps that subvert the security of the application. These common threat logs include invalid parameters, unautorized access to restricted data, failed authentication, invalid API key and more. Just like audit trails, this can be used for investigation and also increase security. 
+
+### Sources
+
+
+##### >> [Logging in C#](https://michaelscodingspot.com/logging-in-dotnet/)
+
+##### >> [What is Telemetry](https://stackify.com/telemetry-tutorial/)
+
+##### >> [Metrics](https://docs.microsoft.com/en-gb/azure/azure-monitor/app/live-stream#get-started)
+
+##### >> [Application Insight ASP.NET Core](https://docs.microsoft.com/en-us/azure/azure-monitor/app/asp-net-core)
+
+##### >> [Application Insight Serilog Sink](https://www.youtube.com/watch?v=dI8-UHhiZZE)
+
+##### >> [Serilog in ASP.NET](https://codewithmukesh.com/blog/serilog-in-aspnet-core-3-1/)
+
+##### >> [Kusto Queries](https://azure-training.com/azure-data-science/the-kusto-query-language/)

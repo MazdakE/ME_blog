@@ -61,7 +61,7 @@ There is also graphical functions in Application Insight called [Application Map
 
 ![LoggingSeriLog](/ME_blog/images/LoggingSeriLog.png){:class="img-fluid"}
 
-Now when we run the application locally we see get information about every step we take in our application. We see `[INF]` which means information and if it crashes we get `[ERR]` and `[WAR]`which means error and warning. Besides that we also get a text-file with all the information from the console everytime we use the application. 
+Now when we run the application locally we see get information about every step we take in our application. We see `[INF]` which means information and if it crashes we get `[ERR]` and `[WRN]`which means error and warning. Besides that we also get a text-file with all the information from the console everytime we use the application. 
 
 We can on the other hand see the logging in Azure portal as I previously mentioned (App Service -> Application Insight -> View Application Insights data -> Search -> See all data in the last 24 hours). 
 
